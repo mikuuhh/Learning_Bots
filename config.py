@@ -7,13 +7,13 @@ from pyrogram import filters
 load_dotenv()
 
 
-API_ID = 
-API_HASH = ""
-BOT_TOKEN = ""
-MONGO_DB_URI = ""
+API_ID = 21268906
+API_HASH = "235d190145b99d3a899b85ebe79db582"
+BOT_TOKEN = "7117742558:AAEImAYSeE4QDpnrRJ7XHiGrtcDuWSVR2xs"
+MONGO_DB_URI = "mongodb+srv://mikuuhh:mikuuhh@cluster0.1lhaq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
-LOGGER_ID = 
-OWNER_ID = 
+LOGGER_ID = -4232961164
+OWNER_ID = 7069264212
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -53,7 +53,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = ""
+STRING1 = "BQFEiaoAk7QH0qFY9geHm72BbQ_vMYXtIcnjtlqxjIkPtf_PXfsp_d_HjxTihGduLxFf5rkap6BBXw7V-t2tmMXe5w01CgqGLseZMGc696OLN176DfIn0hwi2d7BckkAt4Rj-ZicgZu5YoV8SmVViAv46ie1us07haSPRl8gUVtpmTHW3f-cehjP7yPwl6MWeTIA8e-qZCaxRI_XKEmpbg4g_byg4cxb-oxRnGYGcCqO7jf9Bo261LFnZ0Cro1Obud9JYSuFFFqVSPg_jujj2oF4_sqsLdWPMAfsSfvlX-2UMeiVcunKkYGHYdSnYMnfC7FLxbRnxajULnt4fMoSO3uZb2-drwAAAAGp7Fv7AA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
