@@ -39,10 +39,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/thanos_pro).
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/Learningbots79">
+  <a href="https://github.com/mikuuhh/Learning_Bots">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/Learning_bots">
+  <a href="https://github.com/mikuuhh/Learning_Bots">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
